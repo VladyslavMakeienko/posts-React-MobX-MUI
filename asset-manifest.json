@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/posts-React-MobX-MUI/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/posts-React-MobX-MUI/static/js/main.f924ec4e.chunk.js",
+    "main.js.map": "/posts-React-MobX-MUI/static/js/main.f924ec4e.chunk.js.map",
+    "runtime-main.js": "/posts-React-MobX-MUI/static/js/runtime-main.0d70cc80.js",
+    "runtime-main.js.map": "/posts-React-MobX-MUI/static/js/runtime-main.0d70cc80.js.map",
+    "static/js/2.e97371e3.chunk.js": "/posts-React-MobX-MUI/static/js/2.e97371e3.chunk.js",
+    "static/js/2.e97371e3.chunk.js.map": "/posts-React-MobX-MUI/static/js/2.e97371e3.chunk.js.map",
+    "static/js/3.bae0b005.chunk.js": "/posts-React-MobX-MUI/static/js/3.bae0b005.chunk.js",
+    "static/js/3.bae0b005.chunk.js.map": "/posts-React-MobX-MUI/static/js/3.bae0b005.chunk.js.map",
+    "index.html": "/posts-React-MobX-MUI/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/posts-React-MobX-MUI/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.e97371e3.chunk.js.LICENSE.txt": "/posts-React-MobX-MUI/static/js/2.e97371e3.chunk.js.LICENSE.txt",
+    "static/media/PhotoAvatar.2d9db8aa.png": "/posts-React-MobX-MUI/static/media/PhotoAvatar.2d9db8aa.png",
+    "static/media/UserAvatar.277ea04b.png": "/posts-React-MobX-MUI/static/media/UserAvatar.277ea04b.png",
+    "static/media/WomanAvatar.396cd13c.png": "/posts-React-MobX-MUI/static/media/WomanAvatar.396cd13c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d70cc80.js",
+    "static/js/2.e97371e3.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.f924ec4e.chunk.js"
+  ]
+}
